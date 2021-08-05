@@ -7,6 +7,7 @@
         width="170"
         height="70"
       />
+      
     </div>
     <div class="formulario-login">
       <div><h1>Faça seu login</h1></div>
